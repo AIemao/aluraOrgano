@@ -3,45 +3,20 @@ import Banner from "./components/Banner";
 import Formulario from "./components/Formutario";
 import Time from "./components/Time";
 import Rodape from "./components/Rodape";
-;
+
 
 function App() {
   const times = [
     {
-      nome:'Programação',
-      corPrimaria: '#57c278',
+      nome:'Marvel',
+      corPrimaria: '#ff0000',
       corSecundaria: '#d9f7e9',
     },
     {
-      nome: 'Front-End',
-      corPrimaria: "#82CFFA",
+      nome: 'DC',
+      corPrimaria: "#0e0e0e",
       corSecundaria: "#E8F8EE",
-    },
-    {
-      nome: 'Data Science',
-      corPrimaria: '#A6D157',
-      corSecundaria: '#F0F8E2',
-    },
-    {
-      nome: 'Devops',
-      corPrimaria: '#E06869',
-      corSecundaria: '#FDE7E8',
-    },
-    {
-      nome: 'UX e Design',
-      corPrimaria: '#D86E8F',
-      corSecundaria: '#FAE9F5',
-    },
-    {
-      nome: 'Mobile',
-      corPrimaria: '#FFBA05',
-      corSecundaria: '#FFF5D9',
-    },
-    {
-      nome: 'Inovção e Gestão',
-      corPrimaria: '#FF8A29',
-      corSecundaria: '#FFEEDF',
-    },
+    }
   ];
 
   const [colaboradores, setColaboradores] = useState([]);
@@ -51,7 +26,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundColor: 'black'}}>
       <Banner />
       <Formulario
           times={times.map(time => time.nome)}
