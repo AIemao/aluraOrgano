@@ -39,8 +39,9 @@ Esta solução é baseada no curdo Alura - Organo.
 
 ### O que aprendi
 
+React componentização one way data binding e map em componentes
 
-````React componentização one way data binding e map em componentes
+````REACT
         <h1>Lista de Compras</h1>
         {times.map((time, indice) => 
           <Time 
