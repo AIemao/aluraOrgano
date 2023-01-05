@@ -21,7 +21,7 @@ Esta solução é baseada no curdo Alura - Organo.
 
 ### Screenshot
 
-<img src="/images/FRONT.PNG" alt style="max-width: 100%">
+<img src="/public/imagens/FRONT.PNG" alt style="max-width: 100%">
 
 
 ### Links
