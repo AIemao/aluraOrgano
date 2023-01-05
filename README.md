@@ -4,15 +4,15 @@ Esta solução é baseada no curdo Alura - Organo.
 
 ## Índice
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Visão geral](#visão geral)
+   - [Captura de tela](#captura de tela)
+   - [Links](#links)
+- [Meu processo](#meu-processo)
+   - [Construído com](#construído com)
+   - [O que aprendi](#o-que-aprendi)
+   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
+   - [Recursos úteis](#useful-resources)
+- [Autor](#autor)
 
 
 
