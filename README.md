@@ -39,7 +39,6 @@ Esta solução é baseada no curdo Alura - Organo.
 
 ### O que aprendi
 
-Proud to write a good README.md!
 
 ````React componentização one way data binding e map em componentes
         <h1>Lista de Compras</h1>
@@ -56,18 +55,18 @@ Proud to write a good README.md!
       </section>
 ````
 
-### Continued development
+### Desenvolvimento contínuo
 
 Site Alura:
 https://www.alura.com.br/
 
-### Useful resources
+### Recursos úteis
 
 - [Vercel](https://vercel.com/) - Deploy
 - [React Icons] https://react-icons.github.io/react-icons/
 
 
-## Author
+## Autor
 
 - Site - [Celio Junior](https://www.linkedin.com/in/celio-junior-152529193/)
 
