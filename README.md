@@ -1,5 +1,4 @@
-# Alura - Curso - React: como os componentes funcionam
-# Alura - Curso - React: Desenvolvendo com JS
+# Alura - Curso - React: como os componentes funcionam e React: Desenvolvendo com JS
 
 Esta solução é baseada no curdo Alura - Organo. 
 
