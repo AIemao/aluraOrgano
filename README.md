@@ -41,7 +41,7 @@ Esta solução é baseada no curdo Alura - Organo.
 
 React componentização one way data binding e map em componentes
 
-````REACT
+````JS
         <h1>Lista de Compras</h1>
         {times.map((time, indice) => 
           <Time 
