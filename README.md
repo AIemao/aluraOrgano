@@ -63,8 +63,8 @@ https://www.alura.com.br/
 
 ### Recursos úteis
 
-- [Vercel](https://vercel.com/) - Deploy
-- [React Icons] https://react-icons.github.io/react-icons/
+- [Vercel](https://vercel.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 
 ## Autor
