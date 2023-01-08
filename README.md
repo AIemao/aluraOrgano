@@ -19,7 +19,7 @@ Esta solução é baseada no curso Alura - Organo.
 
 ## Visão Geral
 
-### Screenshot
+### Captura de tela
 
 <img src="/public/imagens/FRONT.PNG" alt style="max-width: 100%">
 
